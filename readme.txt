@@ -2,7 +2,7 @@
 Contributors: sivel
 Tags: formatting, links, post, posts, categories, cloud, tags
 Requires at least: 2.0
-Tested up to: 2.3
+Tested up to: 2.5
 Stable tag: 0.2
 
 Creates a function that can be placed in a wordpress template for a category cloud that exists without the requirement of widgets or a widget ready theme.
