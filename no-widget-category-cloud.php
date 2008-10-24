@@ -9,7 +9,7 @@ Author URI: http://sivel.net
 
         Copyright (c) 2007 Matt Martz (http://sivel.net)
         No Widget Category Cloud is released under the GNU General Public License (GPL)
-        http://www.gnu.org/licenses/gpl.txt
+	http://www.gnu.org/licenses/gpl-2.0.txt
 */
 
 function nw_catcloud($small=75,$big=200,$unit='%',$align='left',$orderby='name',$order='ASC',$min=1,$hide_empty=1,$title='',$exclude='') {
