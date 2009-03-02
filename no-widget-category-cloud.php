@@ -4,7 +4,7 @@ Plugin Name: No Widget Category Cloud
 Plugin URI: http://sivel.net/category/wordpress/plugins/
 Description: Creates a function that can be placed in a wordpress template for a category cloud that exists without the requirement of widgets or a widget ready theme.
 Version: 0.2
-Author:  Matt Martz <mdmartz@sivel.net>
+Author: Matt Martz
 Author URI: http://sivel.net
 
         Copyright (c) 2007 Matt Martz (http://sivel.net)
