@@ -64,7 +64,7 @@ title = string (This can contain HTML to format the title)`
 1. `<?php nw_catcloud(75,200,'%','left','name','asc',1,1,'<h2 class="posttitle" style="margin-bottom:0px;">Categories</h2>'); ?>`
 1. `<?php nw_catcloud(); ?>`
 
-== Change Log ==
+== Changelog ==
 
 = 0.2 (2007-10-22): =
 * Initial Public Release
